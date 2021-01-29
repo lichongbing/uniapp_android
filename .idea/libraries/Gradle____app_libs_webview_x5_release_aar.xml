@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/webview-x5-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95549f1e0386de80b95ba66d15307f90/webview-x5-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95549f1e0386de80b95ba66d15307f90/webview-x5-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95549f1e0386de80b95ba66d15307f90/webview-x5-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95549f1e0386de80b95ba66d15307f90/webview-x5-release/jars/libs/tbs_sdk_thirdapp_v4.3.0.67_43967_sharewithdownloadwithfile_withoutGame_obfs_20200923_120452.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
